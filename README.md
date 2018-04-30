@@ -9,3 +9,8 @@ $ meteor add qualia:analyze-observes
 ```
 
 ## Usage
+
+```js
+import { Analyze } from 'meteor/qualia:analyze-observes';
+console.log(Analyze.go());
+```

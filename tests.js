@@ -50,7 +50,6 @@ Tinytest.add('analyze-observes - limit without sort', test => {
 Tinytest.add('analyze-observes - limit with sort', test => {
   withObserve({ limit: 10, sort: {i: 1} }, key => {
     let result = Object.values(Analyze.go())[0];
-    console.log(result);
     test.isTrue(_.size(result.oplogBlockers) === 0);
   });
 });

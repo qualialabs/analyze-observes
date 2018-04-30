@@ -20,7 +20,7 @@ ejson@1.1.0
 geojson-utils@1.0.10
 http@1.4.1
 id-map@1.1.0
-local-test:qualia:analyze-observes@0.0.1
+local-test:qualia:analyze-observes@0.0.2
 logging@1.1.20
 meteor@1.8.6
 minimongo@1.4.4
@@ -32,7 +32,7 @@ mongo-id@1.0.7
 npm-mongo@2.2.34
 ordered-dict@1.1.0
 promise@0.10.2
-qualia:analyze-observes@0.0.1
+qualia:analyze-observes@0.0.2
 random@1.1.0
 reload@1.2.0
 retry@1.1.0

@@ -1,6 +1,6 @@
 Package.describe({
   name: 'qualia:analyze-observes',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Find polling publications/observes.',
   git: 'http://github.com/qualialabs/analyze-observes',
   documentation: 'README.md'
